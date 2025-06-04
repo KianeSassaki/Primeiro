@@ -1,10 +1,6 @@
-#Ativando pacote
-library(usethis)
+x= c(2,3,5,6)
 
-#Registrando dados de usuário
-use_git_config(user.name ="KianeSassaki",user.email ="kianesassaki@id.uff.br" )
+mean(x)
 
-#Configurando token
-gitcreds::gitcreds_set()
-
+sum(x)
 
