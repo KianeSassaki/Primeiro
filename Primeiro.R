@@ -7,4 +7,4 @@ use_git_config(user.name ="KianeSassaki",user.email ="kianesassaki@id.uff.br" )
 #Configurando token
 gitcreds::gitcreds_set()
 
-teste
+
