@@ -1,5 +1,4 @@
-# Primeiro
-Repositório de teste para a disciplina Prática Estatística
+#Aprendendo a manipular o github
 
 A média de $x_1,x_2,\ldots,x_n$ é dada por
 
