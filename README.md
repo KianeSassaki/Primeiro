@@ -1,5 +1,5 @@
-# Primeiro
-# Teste
+# Aprendendo a utilizar o GitHub
+
 
 A média de $x_1,x_2,\ldots,x_n$ é dada por
 
