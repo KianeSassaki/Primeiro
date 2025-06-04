@@ -4,3 +4,5 @@ mean(x)
 
 sum(x)
 
+sum(x^2)
+
